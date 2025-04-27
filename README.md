@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syzhou</h1>
+<h1 align="center">Hi 👋, I'm terrybaumbach</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="center">
@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syzhou09&show_icons=true&theme=radical" alt="syzhou's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=syzhou09&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=terrybaumbach&show_icons=true&theme=radical" alt="terrybaumbach's GitHub stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=terrybaumbach&theme=radical&hide_border=true" width="400"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ### ☕ Let's Connect
 
 <p align="left">
-  <a href="https://github.com/syzhou09" target="_blank">
+  <a href="https://github.com/terrybaumbach" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
